@@ -1,5 +1,8 @@
 #!/bin/bash
+
 # tested in WSL2
+# Doc
+# https://docs.microsoft.com/zh-cn/windows/wsl/
 
 # data sample
 # wechat_nickname1,2022/2/24 17:25:28,student_name1,wechat_nickname1-2022/02/24 17:25:28.jpeg,wechat_nickname1-2022/02/24 17:26:28.jpeg,,,,,,,,,,,,,,,,,,,,,,,,,,
